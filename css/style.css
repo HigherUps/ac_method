@@ -23,6 +23,7 @@
 body {
 	background-color: grey;
 	color: white;
+	padding: 15px;
 }
 .volume {
 	font-family: Impact;
