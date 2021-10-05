@@ -11,8 +11,12 @@
 	font-family: Impact;
 	text-align: center;
 }
-.body {
+.text {
 	font-family: Roboto;
 	text-align: left;
 	font-size: 20px;
+}
+.crinfo {
+	height: 0px;
+	width: 0px;
 }
