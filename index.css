@@ -1,9 +1,9 @@
-font1 {
+start {
 	font-family: Impact;
 	text-align: center;
 }
-font2 {
+middle {
 	font-family: Impact;
 	text-align: center;
-	text-size: 30px;
+	text-size: 25px;
 }
