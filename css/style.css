@@ -35,9 +35,10 @@ body {
 	color: white;
 }
 .volumes {
-	width: 75%;
+	width: 50%;
 	display: block;
 	margin: 0 auto;
+	content-align: middle; 
 }
 .content  {
 	width: 100%;
@@ -45,6 +46,7 @@ body {
 }
 .content a {
 	color: #3498DB;
+	text-align: center;
 }
 .content a:hover {
 	color: white;
