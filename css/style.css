@@ -34,3 +34,18 @@ body {
 	text-align: left;
 	color: white;
 }
+.volumes {
+	width: 75%;
+	display: block;
+	margin: 0 auto;
+}
+.content  {
+	width: 100%;
+	height: 150px;
+}
+.content a {
+	color: #3498DB;
+}
+.content a:hover {
+	color: white;
+}
